@@ -1,0 +1,2 @@
+verdadero = True
+falso = False
